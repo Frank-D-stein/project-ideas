@@ -24,3 +24,7 @@ This idea introduces a new and refreshing way to study. Instead of trying to cra
 2. Something to host the text service
 3. A database to store the users data and quizlet sets
 4. OAuthentification via google that allows for a seemless login experience
+
+### Who would use it:
+
+This website is directed mainly at students, but can be used by anyone who uses quizlet.
