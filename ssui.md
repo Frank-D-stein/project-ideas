@@ -1,4 +1,4 @@
-# VILS (Visual Input Life Saver)
+# VILS (Visual Imaging Life Saver)
 
 *Disclaimer: this project is subject to changes and is open to ideas*
 
@@ -23,6 +23,7 @@ By being trained on sample data, VILS is built on a convolutional neural network
 - HTML/CSS/JS - Frontend
     - Electron - Apply the stack as a desktop application
     - Flask - Embed the Python application/model into the application
+- Swift - watchOS for smartwatch data tracking
 
 ## Target Audience
 
