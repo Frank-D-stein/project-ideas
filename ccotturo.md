@@ -28,7 +28,7 @@
     audio has been found in violation (maybe even include a likely-ness percentage in case of error) we add an option
     to remove the audio in case it is not possible, such as a video in a store with music playing for the customers. 
     This is where I am not sure if this idea would work, if we could "flip" the audio wave and play it over top of the 
-    existing audio there *should* be an effect called deconstructive interference in which the audio of the music 
+    existing audio there _should_ be an effect called deconstructive interference in which the audio of the music 
     would be removed. Down the line for different scenarios such as bad audio quality on copyrighted material we could 
     use a library to isolate the bad audio to remove it from the video. Prior testing is **required** to ensure that
     the audio after the program has been run is still intact because I'm not confident that their wouldnt be some audio
@@ -53,3 +53,5 @@
    Overall if this idea is valid it would primarily be used by content creators, and given that it works and does the 
    job well, there is potentially room to capitalize on it either with a monthly subscription platform or a pay-per-use 
    scenario. Or even just to leave it online or open source for free and solicit donations.
+
+---
